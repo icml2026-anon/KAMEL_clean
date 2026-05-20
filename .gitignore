@@ -29,8 +29,7 @@ nohup.out
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
-# Data
-*.csv
+# Data (large binary formats only)
 *.npy
 *.npz
 *.h5
